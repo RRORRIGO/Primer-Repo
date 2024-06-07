@@ -24,6 +24,6 @@ int main(){
 }
 ```
 
-![imagen adjunta](/assets/images/imagen_ejecucion.png)
+![imagen adjunta](https://github.com/RRORRIGO/Primer-Repo/blob/master/imagen_ejecucion.png)
 
 Fue muy divertido xd
