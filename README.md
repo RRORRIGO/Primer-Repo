@@ -1,6 +1,8 @@
 # tareas
-hola, este es mi primer repositorio, en donde subiré algunos códigos para mi trabajo
+Hola, 
+este es mi primer repositorio, en donde subiré algunos códigos para mi trabajo
 ## tarea 1
+Este es el código que usaré
 ```asm
 #include <iostream>
 using namespace std;
@@ -21,3 +23,7 @@ int main(){
     return 0;
 }
 ```
+
+![imagen adjunta](/c/Repositorio/Primer-Repo/imagen_ejecucion.png)
+
+Fue muy divertido xd
