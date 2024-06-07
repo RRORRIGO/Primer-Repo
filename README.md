@@ -24,6 +24,6 @@ int main(){
 }
 ```
 
-![imagen adjunta](/c/Repositorio/Primer-Repo/imagen_ejecucion.png)
+![imagen adjunta](/assets/images/imagen_ejecucion.png)
 
 Fue muy divertido xd
