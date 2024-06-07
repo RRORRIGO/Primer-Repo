@@ -24,6 +24,9 @@ int main(){
 }
 ```
 
+La siguiente imagen es una prueba que funciona correctamente 
+
 ![imagen adjunta](https://github.com/RRORRIGO/Primer-Repo/blob/master/imagen_ejecucion.png)
 
-Fue muy divertido xd
+Con respecto al parendizaje, pude crear mi repositorio, a saber a usar git, github, claro que no en todam su totalidad porque tienen muchas más opciones que puede servir por algo no es el preferido de la programación, he aprendido a compilar y a ejecutar desde la terminal, con git, cmd, a abrir, eliminar, remover, archivos o directorios. 
+Aún me falta saber m,ás de las funciones de git, github y visual studio edit pero voy por buen camino creo yo :)
