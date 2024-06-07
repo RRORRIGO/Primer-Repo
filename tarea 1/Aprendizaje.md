@@ -1,2 +1,0 @@
-Con respecto al aprendizaje, pude crear mi repositorio, a saber a usar git, github,claro que no en todam su totalidad porque tienen muchas más opciones, por algo no es el preferido de la programación, he aprendido a compilar y a ejecutar desde la terminal, con git, cmd, a abrir, eliminar, remover, archivos o directorios. 
-Aún me falta saber más de las funciones de git, github y visual studio edit pero voy por buen camino creo yo :)
