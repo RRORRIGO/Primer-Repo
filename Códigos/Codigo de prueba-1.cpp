@@ -8,25 +8,23 @@ void wallis(float n, char p){
         if(p='a'){
             for(int i=1;producto>n;i++){
                 producto*=(i*2-1)/(2*i);
-                
+                numerador=(i*2-1);
+                denominador=(2*i);
  
             }
+            cout<<numerador<<"/"<<denominador;
+            if(producto>n){
+                cout<<"*";
+            }
+            cout<<"="<<producto;
         }
     }
 }
 int main(){
-    int a;
-    int n=1;
-    while(n<=3){
-        n++;
-        cin>>a;
-        cout<<"omla profe :3"<<endl;
-        cout<<"omla"<<" "<<"homla:"<<endl;
-        while(a<70){
-        a*=2;
-    }
-    cout<<a<<endl;
-    }
     
+    int limite;
+    char letra;
+    cin>>limite>>letra;
+    wallis(limite,letra);
     return 0;
 }
