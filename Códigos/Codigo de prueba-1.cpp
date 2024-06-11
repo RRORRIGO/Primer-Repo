@@ -7,14 +7,15 @@ void wallis(float n, char p){
     }else{
         if(p='a'){
             for(int i=1;producto>n;i++){
-                producto*=(i*2-1)/(2*i);
+                producto*=(i*2.0-1)/(2.0*i);
                 numerador=(i*2-1);
                 denominador=(2*i);
  
-            }
+            
             cout<<numerador<<"/"<<denominador;
             if(producto>n){
                 cout<<"*";
+            }
             }
             cout<<"="<<producto;
         }
@@ -22,7 +23,7 @@ void wallis(float n, char p){
 }
 int main(){
     
-    int limite;
+    float limite;
     char letra;
     cin>>limite>>letra;
     wallis(limite,letra);
