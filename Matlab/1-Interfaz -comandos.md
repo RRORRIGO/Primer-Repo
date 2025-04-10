@@ -27,7 +27,7 @@ Mayormente se usa el de tres columnas (three columns) porque aparecen:
 |:-----------:|:-----------:|:-----------:|
 |Aquí encontramos el directorio en el que estamos trabajando así como visualizar carpetas o archivos|Aquí colocaremos comandos que queramos ejecutar|Aquí se encuentran las diferentes variables que usaremos así como su valor y propiedades| 
 <p align="center">
-    <img src="Images/espacio.png" tittle="opciones de Layout" width=600>
+    <img src="Images/Espacio.png" tittle="opciones de Layout" width=600>
 </p>
 
 Pero además existen más funciones en HOME
