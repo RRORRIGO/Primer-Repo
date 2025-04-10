@@ -5,4 +5,4 @@ Matlab (MATrix LABoratory, "laboratorio de matrices"). Es un lenguaje de program
 
 NOs ayuda en la manipulación de matrices, representación de datos y funciones. Además que cuenta con simulink (plataforma de simulación multidominio) y GUIDE (editor de interfaces de usuario-GUI).
 
-!(imagen de simulink)[Images/Simulink.png]
+![imagen de simulink](Images/Simulink.png)
